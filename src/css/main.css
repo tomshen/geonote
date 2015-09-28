@@ -1,0 +1,6 @@
+@import "normalize-css/normalize";
+@import "leaflet/dist/leaflet";
+
+.map {
+  height: 600px;
+}
